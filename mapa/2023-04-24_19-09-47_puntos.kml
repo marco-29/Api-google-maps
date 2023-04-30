@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>    
+        <StyleMap id="Pal1Icon1">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#NormalPal1Icon1</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#HighlightPal1Icon1</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="NormalPal1Icon1">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon8.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="HighlightPal1Icon1">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon8.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>    
+        <StyleMap id="Pal1Icon2">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#NormalPal1Icon2</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#HighlightPal1Icon2</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="NormalPal1Icon2">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon9.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="HighlightPal1Icon2">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon9.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>    
+        <StyleMap id="Pal1Icon3">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#NormalPal1Icon3</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#HighlightPal1Icon3</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="NormalPal1Icon3">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon10.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="HighlightPal1Icon3">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon10.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>    
+        <StyleMap id="Pal1Icon4">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#NormalPal1Icon4</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#HighlightPal1Icon4</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="NormalPal1Icon4">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon11.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="HighlightPal1Icon4">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon11.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Folder>
+            <name>casa</name>
+            <Placemark>
+                <name>punto_1</name>
+                <description>Calle San Esteban 122 -16</description>
+                <styleUrl>#Pal1Icon1</styleUrl>
+                <Point>
+                    <coordinates>-74.079428,4.753961,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>iglesia</name>
+            <Placemark>
+                <name>punto_2</name>
+                <description>Iglesia de Santa Margarita</description>
+                <styleUrl>#Pal1Icon2</styleUrl>
+                <Point>
+                    <coordinates>-74.084736111111,4.7512,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>castillo</name>
+            <Placemark>
+                <name>punto_3</name>
+                <description>Castillo San Jacinto</description>
+                <styleUrl>#Pal1Icon3</styleUrl>
+                <Point>
+                    <coordinates>-74.092556816304,4.7526514706124,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>edificio</name>
+            <Placemark>
+                <name>punto_4</name>
+                <description>Edificio Royal</description>
+                <styleUrl>#Pal1Icon4</styleUrl>
+                <Point>
+                    <coordinates>-74.085460390609,4.7434108111646,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
